@@ -1,0 +1,27 @@
+<map id="WebAppBase.h" name="WebAppBase.h">
+<area shape="rect" id="node3" href="$WebAppFactoryLuna_8cpp.htm" title="WebAppFactoryLuna.cpp" alt="" coords="1344,324,1523,353"/>
+<area shape="rect" id="node5" href="$WebAppFactoryMinimal_8cpp.htm" title="WebAppFactoryMinimal.cpp" alt="" coords="1637,237,1832,267"/>
+<area shape="rect" id="node7" href="$PalmSystem_8cpp.htm" title="PalmSystem.cpp" alt="" coords="1488,237,1613,267"/>
+<area shape="rect" id="node9" href="$SysMgrWebBridge_8cpp.htm" title="SysMgrWebBridge.cpp" alt="" coords="2004,83,2169,112"/>
+<area shape="rect" id="node11" href="$WebAppBase_8cpp.htm" title="WebAppBase.cpp" alt="" coords="2193,83,2327,112"/>
+<area shape="rect" id="node13" href="$WebAppCache_8cpp.htm" title="WebAppCache.cpp" alt="" coords="2351,83,2492,112"/>
+<area shape="rect" id="node15" href="$WindowedWebApp_8h.htm" title="WindowedWebApp.h" alt="" coords="1259,83,1411,112"/>
+<area shape="rect" id="node48" href="$WebAppManager_8cpp.htm" title="WebAppManager.cpp" alt="" coords="672,237,829,267"/>
+<area shape="rect" id="node17" href="$CardWebApp_8h.htm" title="CardWebApp.h" alt="" coords="1136,160,1253,189"/>
+<area shape="rect" id="node21" href="$DockWebApp_8h.htm" title="DockWebApp.h" alt="" coords="1040,237,1157,267"/>
+<area shape="rect" id="node46" href="$WindowedWebApp_8cpp.htm" title="WindowedWebApp.cpp" alt="" coords="5,324,171,353"/>
+<area shape="rect" id="node51" href="$AlertWebApp_8h.htm" title="AlertWebApp.h" alt="" coords="1277,160,1392,189"/>
+<area shape="rect" id="node57" href="$DashboardWebApp_8h.htm" title="DashboardWebApp.h" alt="" coords="1845,160,2000,189"/>
+<area shape="rect" id="node63" href="$WebAppDeferredUpdateHandler_8cpp.htm" title="WebAppDeferredUpdateHandler.cpp" alt="" coords="1467,160,1720,189"/>
+<area shape="rect" id="node19" href="$CardWebApp_8cpp.htm" title="CardWebApp.cpp" alt="" coords="1189,324,1320,353"/>
+<area shape="rect" id="node29" href="$RemoteWindowData_8h.htm" title="RemoteWindowData.h" alt="" coords="853,237,1016,267"/>
+<area shape="rect" id="node23" href="$DockWebApp_8cpp.htm" title="DockWebApp.cpp" alt="" coords="1032,324,1165,353"/>
+<area shape="rect" id="node33" href="$RemoteWindowData_8cpp.htm" title="RemoteWindowData.cpp" alt="" coords="799,420,975,449"/>
+<area shape="rect" id="node35" href="$RemoteWindowDataSoftwareQt_8h.htm" title="RemoteWindowDataSoftwareQt.h" alt="" coords="448,324,680,353"/>
+<area shape="rect" id="node40" href="$RemoteWindowDataOpenGLQt_8h.htm" title="RemoteWindowDataOpenGLQt.h" alt="" coords="195,324,424,353"/>
+<area shape="rect" id="node44" href="$RemoteWindowDataOpenGLTextureShared_8h.htm" title="RemoteWindowDataOpenGLTexture\lShared.h" alt="" coords="704,315,957,362"/>
+<area shape="rect" id="node38" href="$RemoteWindowDataSoftwareQt_8cpp.htm" title="RemoteWindowDataSoftware\lQt.cpp" alt="" coords="461,411,667,458"/>
+<area shape="rect" id="node42" href="$RemoteWindowDataOpenGLQt_8cpp.htm" title="RemoteWindowDataOpenGLQt.cpp" alt="" coords="187,420,432,449"/>
+<area shape="rect" id="node53" href="$AlertWebApp_8cpp.htm" title="AlertWebApp.cpp" alt="" coords="1333,237,1464,267"/>
+<area shape="rect" id="node59" href="$DashboardWebApp_8cpp.htm" title="DashboardWebApp.cpp" alt="" coords="1907,237,2077,267"/>
+</map>

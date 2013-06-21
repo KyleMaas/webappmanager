@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classEvent.htm" title="Event" alt="" coords="5,59,64,88"/>
+<area shape="rect" id="node3" href="$classInputEvent.htm" title="InputEvent" alt="" coords="157,5,245,35"/>
+<area shape="rect" id="node5" href="$classPageCloseRequestEvent.htm" title="PageCloseRequestEvent" alt="" coords="112,59,291,88"/>
+<area shape="rect" id="node7" href="$classProcessManagerEvent.htm" title="ProcessManagerEvent" alt="" coords="119,112,284,141"/>
+<area shape="rect" id="node9" href="$classProcessManagerLaunchEvent.htm" title="ProcessManagerLaunchEvent" alt="" coords="340,112,551,141"/>
+</map>

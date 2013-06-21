@@ -1,0 +1,8 @@
+<map id="CardWebApp" name="CardWebApp">
+<area shape="rect" id="node13" href="$classDockWebApp.htm" title="DockWebApp" alt="" coords="160,315,267,344"/>
+<area shape="rect" id="node2" href="$classWindowedWebApp.htm" title="WindowedWebApp" alt="" coords="65,160,207,189"/>
+<area shape="rect" id="node4" href="$classWebAppBase.htm" title="WebAppBase" alt="" coords="5,83,112,112"/>
+<area shape="rect" id="node6" href="$classQObject.htm" title="QObject" alt="" coords="23,5,95,35"/>
+<area shape="rect" id="node8" href="$classPIpcChannelListener.htm" title="PIpcChannelListener" alt="" coords="136,83,291,112"/>
+<area shape="rect" id="node10" href="$classQGraphicsView.htm" title="QGraphicsView" alt="" coords="231,160,351,189"/>
+</map>

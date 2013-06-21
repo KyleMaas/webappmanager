@@ -1,0 +1,6 @@
+<map id="Event" name="Event">
+<area shape="rect" id="node3" href="$classInputEvent.htm" title="InputEvent" alt="" coords="5,83,93,112"/>
+<area shape="rect" id="node5" href="$classPageCloseRequestEvent.htm" title="PageCloseRequestEvent" alt="" coords="117,83,296,112"/>
+<area shape="rect" id="node7" href="$classProcessManagerEvent.htm" title="ProcessManagerEvent" alt="" coords="320,83,485,112"/>
+<area shape="rect" id="node9" href="$classProcessManagerLaunchEvent.htm" title="ProcessManagerLaunchEvent" alt="" coords="297,160,508,189"/>
+</map>

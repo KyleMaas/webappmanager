@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['generate',['generate',['../classHostWindowDataFactory.htm#a507588a5ed3edbcdaede5543f4033c8c',1,'HostWindowDataFactory::generate()'],['../classRemoteWindowDataFactory.htm#a212bdb412ea1614919adb0d1f741ed71',1,'RemoteWindowDataFactory::generate()']]],
+  ['getactiveappid',['getActiveAppId',['../classWebAppManager.htm#af037c880265bbdc154337892aca92bf3',1,'WebAppManager']]],
+  ['getappdescription',['getAppDescription',['../classWebAppBase.htm#a8e031f4ddb583c2a355669429cc1a33b',1,'WebAppBase']]],
+  ['getclient',['getClient',['../classSysMgrWebBridge.htm#a2be069632a8150117468725394a68f3e',1,'SysMgrWebBridge']]],
+  ['getdetailsforkey',['getDetailsForKey',['../KeyboardMapping_8cpp.htm#aa380a16d49c3e5d4b233212c3f23832e',1,'getDetailsForKey(int key, unsigned int modifiers):&#160;KeyboardMapping.cpp'],['../KeyboardMapping_8cpp.htm#ac37ea2ae2c9eb973444f9dfd32f780ae',1,'getDetailsForKey(int key):&#160;KeyboardMapping.cpp'],['../KeyboardMapping_8h.htm#aa380a16d49c3e5d4b233212c3f23832e',1,'getDetailsForKey(int key, unsigned int modifiers):&#160;KeyboardMapping.cpp'],['../KeyboardMapping_8h.htm#ac37ea2ae2c9eb973444f9dfd32f780ae',1,'getDetailsForKey(int key):&#160;KeyboardMapping.cpp']]],
+  ['getdetailsforqtkey',['getDetailsForQtKey',['../KeyboardMapping_8cpp.htm#ac415e2a22c6fe6b99f0b4ac5abbfdcda',1,'getDetailsForQtKey(int qtKey, Qt::KeyboardModifiers modifiers):&#160;KeyboardMapping.cpp'],['../KeyboardMapping_8h.htm#ac415e2a22c6fe6b99f0b4ac5abbfdcda',1,'getDetailsForQtKey(int qtKey, Qt::KeyboardModifiers modifiers):&#160;KeyboardMapping.cpp']]],
+  ['getdevicekeys',['getDeviceKeys',['../classPalmSystem.htm#ab90d167e21ed1d057625a1170ab87259',1,'PalmSystem']]],
+  ['getgles2context',['getGLES2Context',['../classRemoteWindowData.htm#a72586a5cbf8ae4343598f6d0c5ee91c9',1,'RemoteWindowData::getGLES2Context()'],['../classRemoteWindowDataSoftwareOpenGLComposited.htm#a99aae73b3e771f65f17c041a17ef0b3e',1,'RemoteWindowDataSoftwareOpenGLComposited::getGLES2Context()'],['../classRemoteWindowDataSoftwareTextureShared.htm#a5abd618a54b858d8809b65ad57971baf',1,'RemoteWindowDataSoftwareTextureShared::getGLES2Context()']]],
+  ['gethostinfo',['getHostInfo',['../classWebAppManager.htm#af98e49244864c5d271f5e8260923a826',1,'WebAppManager']]],
+  ['getidentifier',['getIdentifier',['../classPalmSystem.htm#aea42dbb81c34464a75ca308fd939811d',1,'PalmSystem::getIdentifier()'],['../classSysMgrWebBridge.htm#a42c33a2e4868ad472f5f31f30d0eb379',1,'SysMgrWebBridge::getIdentifier()']]],
+  ['getkey',['getKey',['../classWebAppBase.htm#a0354da97ef757df93348e179ebe5d9e3',1,'WebAppBase::getKey()'],['../classWindowedWebApp.htm#a394a9f971980458b5018d4451bba6507',1,'WindowedWebApp::getKey()']]],
+  ['getlocalizedstring',['getLocalizedString',['../classPalmSystem.htm#a54773b47062d8d21605bedc240052a42',1,'PalmSystem']]],
+  ['getoffscreencontentparenttextureid',['getOffscreenContentParentTextureId',['../classPGLES2Context.htm#a96dc7926c3a54cf817c01acd6f4a6d70',1,'PGLES2Context']]],
+  ['getpglescontext',['getPGLESContext',['../classPGLES2Context.htm#a3f8034c8e0ef0a38220394161a6b7850',1,'PGLES2Context']]],
+  ['getprocidsofapp',['getProcIdsOfApp',['../classProcessManager.htm#a6d50ceca46949c7d9232b6120e146b13',1,'ProcessManager']]],
+  ['getresource',['getResource',['../classPalmSystem.htm#a3f9b85ed830ecc14945b245a51e82686',1,'PalmSystem']]],
+  ['getrotation',['getRotation',['../classPGLES2Context.htm#a71ec20c8628e72527814c70af620eed8',1,'PGLES2Context']]],
+  ['getscreenwidthandheight',['getScreenWidthAndHeight',['../classPGLES2Context.htm#a0014bb9366fd9328318d28e814344901',1,'PGLES2Context']]],
+  ['getsharedwindowbuffer',['getSharedWindowBuffer',['../classRemoteWindowDataSoftwareTextureShared.htm#ac209b0f69fe212e603c003c25ec3e7bd',1,'RemoteWindowDataSoftwareTextureShared']]],
+  ['getstatsservicehandle',['getStatsServiceHandle',['../classWebAppManager.htm#aba9abcc1c41430052d8d22f19bb3f0aa',1,'WebAppManager']]],
+  ['gettimezone',['getTimeZone',['../classWebAppManager.htm#ab73e76829c4f0444ffc937fa480e0425',1,'WebAppManager']]],
+  ['gettranslation',['getTranslation',['../classPGLES2Context.htm#ab83bc2d39a38d907afddce6dde9ec01d',1,'PGLES2Context']]],
+  ['getwidget',['getWidget',['../classRemoteWindowDataOpenGLQt.htm#af031ae6ef5e7ab9e736d4261bb00f7be',1,'RemoteWindowDataOpenGLQt']]],
+  ['getwindowpropertiesstring',['getWindowPropertiesString',['../classWindowedWebApp.htm#ac39a140ee1171c919e7961a19e410409',1,'WindowedWebApp']]],
+  ['globalproperties',['globalProperties',['../classWebAppManager.htm#a9ada8029fb05c3bcbad5c47c1ad2e96e',1,'WebAppManager']]]
+];

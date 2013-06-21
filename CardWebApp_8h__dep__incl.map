@@ -1,0 +1,17 @@
+<map id="CardWebApp.h" name="CardWebApp.h">
+<area shape="rect" id="node3" href="$CardWebApp_8cpp.htm" title="CardWebApp.cpp" alt="" coords="365,169,496,199"/>
+<area shape="rect" id="node5" href="$DockWebApp_8h.htm" title="DockWebApp.h" alt="" coords="216,83,333,112"/>
+<area shape="rect" id="node9" href="$WebAppFactoryLuna_8cpp.htm" title="WebAppFactoryLuna.cpp" alt="" coords="5,169,184,199"/>
+<area shape="rect" id="node12" href="$WebAppFactoryMinimal_8cpp.htm" title="WebAppFactoryMinimal.cpp" alt="" coords="695,83,889,112"/>
+<area shape="rect" id="node14" href="$PalmSystem_8cpp.htm" title="PalmSystem.cpp" alt="" coords="913,83,1039,112"/>
+<area shape="rect" id="node16" href="$RemoteWindowData_8h.htm" title="RemoteWindowData.h" alt="" coords="508,83,671,112"/>
+<area shape="rect" id="node35" href="$WebAppManager_8cpp.htm" title="WebAppManager.cpp" alt="" coords="1063,83,1220,112"/>
+<area shape="rect" id="node7" href="$DockWebApp_8cpp.htm" title="DockWebApp.cpp" alt="" coords="208,169,341,199"/>
+<area shape="rect" id="node20" href="$RemoteWindowData_8cpp.htm" title="RemoteWindowData.cpp" alt="" coords="929,265,1105,295"/>
+<area shape="rect" id="node22" href="$RemoteWindowDataSoftwareQt_8h.htm" title="RemoteWindowDataSoftwareQt.h" alt="" coords="1013,169,1245,199"/>
+<area shape="rect" id="node27" href="$RemoteWindowDataOpenGLQt_8h.htm" title="RemoteWindowDataOpenGLQt.h" alt="" coords="709,169,939,199"/>
+<area shape="rect" id="node31" href="$RemoteWindowDataOpenGLTextureShared_8h.htm" title="RemoteWindowDataOpenGLTexture\lShared.h" alt="" coords="1269,161,1523,207"/>
+<area shape="rect" id="node33" href="$WindowedWebApp_8cpp.htm" title="WindowedWebApp.cpp" alt="" coords="520,169,685,199"/>
+<area shape="rect" id="node25" href="$RemoteWindowDataSoftwareQt_8cpp.htm" title="RemoteWindowDataSoftware\lQt.cpp" alt="" coords="1129,257,1335,303"/>
+<area shape="rect" id="node29" href="$RemoteWindowDataOpenGLQt_8cpp.htm" title="RemoteWindowDataOpenGLQt.cpp" alt="" coords="660,265,905,295"/>
+</map>

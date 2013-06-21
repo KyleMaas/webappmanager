@@ -1,0 +1,10 @@
+<map id="QObject" name="QObject">
+<area shape="rect" id="node3" href="$classPalmSystem.htm" title="PalmSystem" alt="" coords="5,83,104,112"/>
+<area shape="rect" id="node5" href="$classSysMgrWebBridge.htm" title="SysMgrWebBridge" alt="" coords="128,83,267,112"/>
+<area shape="rect" id="node7" href="$classWebAppBase.htm" title="WebAppBase" alt="" coords="291,83,397,112"/>
+<area shape="rect" id="node9" href="$classWindowedWebApp.htm" title="WindowedWebApp" alt="" coords="273,160,415,189"/>
+<area shape="rect" id="node11" href="$classAlertWebApp.htm" title="AlertWebApp" alt="" coords="163,237,267,267"/>
+<area shape="rect" id="node13" href="$classCardWebApp.htm" title="CardWebApp" alt="" coords="291,237,397,267"/>
+<area shape="rect" id="node17" href="$classDashboardWebApp.htm" title="DashboardWebApp" alt="" coords="421,237,565,267"/>
+<area shape="rect" id="node15" href="$classDockWebApp.htm" title="DockWebApp" alt="" coords="291,315,397,344"/>
+</map>

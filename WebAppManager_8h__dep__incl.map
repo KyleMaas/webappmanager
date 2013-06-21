@@ -1,0 +1,18 @@
+<map id="WebAppManager.h" name="WebAppManager.h">
+<area shape="rect" id="node3" href="$CardWebApp_8cpp.htm" title="CardWebApp.cpp" alt="" coords="5,92,136,121"/>
+<area shape="rect" id="node5" href="$DockWebApp_8cpp.htm" title="DockWebApp.cpp" alt="" coords="160,92,293,121"/>
+<area shape="rect" id="node7" href="$AlertWebApp_8cpp.htm" title="AlertWebApp.cpp" alt="" coords="317,92,448,121"/>
+<area shape="rect" id="node9" href="$DashboardWebApp_8cpp.htm" title="DashboardWebApp.cpp" alt="" coords="472,92,643,121"/>
+<area shape="rect" id="node11" href="$WebAppFactoryLuna_8cpp.htm" title="WebAppFactoryLuna.cpp" alt="" coords="667,92,845,121"/>
+<area shape="rect" id="node13" href="$Main_8cpp.htm" title="Main.cpp" alt="" coords="869,92,947,121"/>
+<area shape="rect" id="node15" href="$WebAppFactoryMinimal_8cpp.htm" title="WebAppFactoryMinimal.cpp" alt="" coords="971,92,1165,121"/>
+<area shape="rect" id="node17" href="$MemoryWatcher_8cpp.htm" title="MemoryWatcher.cpp" alt="" coords="1189,92,1341,121"/>
+<area shape="rect" id="node19" href="$PalmSystem_8cpp.htm" title="PalmSystem.cpp" alt="" coords="1365,92,1491,121"/>
+<area shape="rect" id="node21" href="$ProcessManager_8cpp.htm" title="ProcessManager.cpp" alt="" coords="1515,92,1669,121"/>
+<area shape="rect" id="node23" href="$RemoteWindowDataOpenGLQt_8cpp.htm" title="RemoteWindowDataOpenGLQt.cpp" alt="" coords="1693,92,1939,121"/>
+<area shape="rect" id="node25" href="$RemoteWindowDataSoftwareQt_8cpp.htm" title="RemoteWindowDataSoftware\lQt.cpp" alt="" coords="1963,83,2168,130"/>
+<area shape="rect" id="node27" href="$SysMgrWebBridge_8cpp.htm" title="SysMgrWebBridge.cpp" alt="" coords="2192,92,2357,121"/>
+<area shape="rect" id="node29" href="$WebAppBase_8cpp.htm" title="WebAppBase.cpp" alt="" coords="2381,92,2515,121"/>
+<area shape="rect" id="node31" href="$WebAppManager_8cpp.htm" title="WebAppManager.cpp" alt="" coords="2539,92,2696,121"/>
+<area shape="rect" id="node33" href="$WindowedWebApp_8cpp.htm" title="WindowedWebApp.cpp" alt="" coords="2720,92,2885,121"/>
+</map>

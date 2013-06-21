@@ -1,0 +1,20 @@
+<map id="WebAppCache.h" name="WebAppCache.h">
+<area shape="rect" id="node3" href="$CardWebApp_8cpp.htm" title="CardWebApp.cpp" alt="" coords="5,169,136,199"/>
+<area shape="rect" id="node5" href="$WebAppManager_8h.htm" title="WebAppManager.h" alt="" coords="1195,83,1336,112"/>
+<area shape="rect" id="node38" href="$WebAppCache_8cpp.htm" title="WebAppCache.cpp" alt="" coords="1360,83,1501,112"/>
+<area shape="rect" id="node8" href="$DockWebApp_8cpp.htm" title="DockWebApp.cpp" alt="" coords="160,169,293,199"/>
+<area shape="rect" id="node10" href="$AlertWebApp_8cpp.htm" title="AlertWebApp.cpp" alt="" coords="317,169,448,199"/>
+<area shape="rect" id="node12" href="$DashboardWebApp_8cpp.htm" title="DashboardWebApp.cpp" alt="" coords="472,169,643,199"/>
+<area shape="rect" id="node14" href="$WebAppFactoryLuna_8cpp.htm" title="WebAppFactoryLuna.cpp" alt="" coords="667,169,845,199"/>
+<area shape="rect" id="node16" href="$Main_8cpp.htm" title="Main.cpp" alt="" coords="869,169,947,199"/>
+<area shape="rect" id="node18" href="$WebAppFactoryMinimal_8cpp.htm" title="WebAppFactoryMinimal.cpp" alt="" coords="971,169,1165,199"/>
+<area shape="rect" id="node20" href="$MemoryWatcher_8cpp.htm" title="MemoryWatcher.cpp" alt="" coords="1189,169,1341,199"/>
+<area shape="rect" id="node22" href="$PalmSystem_8cpp.htm" title="PalmSystem.cpp" alt="" coords="1365,169,1491,199"/>
+<area shape="rect" id="node24" href="$ProcessManager_8cpp.htm" title="ProcessManager.cpp" alt="" coords="1515,169,1669,199"/>
+<area shape="rect" id="node26" href="$RemoteWindowDataOpenGLQt_8cpp.htm" title="RemoteWindowDataOpenGLQt.cpp" alt="" coords="1693,169,1939,199"/>
+<area shape="rect" id="node28" href="$RemoteWindowDataSoftwareQt_8cpp.htm" title="RemoteWindowDataSoftware\lQt.cpp" alt="" coords="1963,161,2168,207"/>
+<area shape="rect" id="node30" href="$SysMgrWebBridge_8cpp.htm" title="SysMgrWebBridge.cpp" alt="" coords="2192,169,2357,199"/>
+<area shape="rect" id="node32" href="$WebAppBase_8cpp.htm" title="WebAppBase.cpp" alt="" coords="2381,169,2515,199"/>
+<area shape="rect" id="node34" href="$WebAppManager_8cpp.htm" title="WebAppManager.cpp" alt="" coords="2539,169,2696,199"/>
+<area shape="rect" id="node36" href="$WindowedWebApp_8cpp.htm" title="WindowedWebApp.cpp" alt="" coords="2720,169,2885,199"/>
+</map>

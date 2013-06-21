@@ -1,0 +1,11 @@
+<map id="DashboardWebApp.cpp" name="DashboardWebApp.cpp">
+<area shape="rect" id="node5" href="$DashboardWebApp_8h.htm" title="DashboardWebApp.h" alt="" coords="577,83,732,112"/>
+<area shape="rect" id="node60" href="$WebAppManager_8h.htm" title="WebAppManager.h" alt="" coords="1635,160,1776,189"/>
+<area shape="rect" id="node8" href="$WindowedWebApp_8h.htm" title="WindowedWebApp.h" alt="" coords="579,160,731,189"/>
+<area shape="rect" id="node15" href="$WebAppBase_8h.htm" title="WebAppBase.h" alt="" coords="440,237,557,267"/>
+<area shape="rect" id="node17" href="$SysMgrWebBridge_8h.htm" title="SysMgrWebBridge.h" alt="" coords="745,315,895,344"/>
+<area shape="rect" id="node19" href="$ProcessBase_8h.htm" title="ProcessBase.h" alt="" coords="641,392,756,421"/>
+<area shape="rect" id="node71" href="$SyncTask_8h.htm" title="SyncTask.h" alt="" coords="1659,237,1752,267"/>
+<area shape="rect" id="node77" href="$MemoryWatcher_8h.htm" title="MemoryWatcher.h" alt="" coords="1928,237,2064,267"/>
+<area shape="rect" id="node90" href="$WebAppCache_8h.htm" title="WebAppCache.h" alt="" coords="1677,392,1803,421"/>
+</map>

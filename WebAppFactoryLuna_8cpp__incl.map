@@ -1,0 +1,16 @@
+<map id="WebAppFactoryLuna.cpp" name="WebAppFactoryLuna.cpp">
+<area shape="rect" id="node5" href="$WebAppFactoryLuna_8h.htm" title="WebAppFactoryLuna.h" alt="" coords="453,160,615,189"/>
+<area shape="rect" id="node15" href="$AlertWebApp_8h.htm" title="AlertWebApp.h" alt="" coords="1413,160,1527,189"/>
+<area shape="rect" id="node25" href="$WebAppBase_8h.htm" title="WebAppBase.h" alt="" coords="751,315,869,344"/>
+<area shape="rect" id="node27" href="$SysMgrWebBridge_8h.htm" title="SysMgrWebBridge.h" alt="" coords="357,392,506,421"/>
+<area shape="rect" id="node63" href="$CardWebApp_8h.htm" title="CardWebApp.h" alt="" coords="1073,160,1190,189"/>
+<area shape="rect" id="node75" href="$DockWebApp_8h.htm" title="DockWebApp.h" alt="" coords="1266,83,1383,112"/>
+<area shape="rect" id="node81" href="$DashboardWebApp_8h.htm" title="DashboardWebApp.h" alt="" coords="1602,160,1757,189"/>
+<area shape="rect" id="node89" href="$WebAppManager_8h.htm" title="WebAppManager.h" alt="" coords="2354,237,2495,267"/>
+<area shape="rect" id="node8" href="$WebAppFactory_8h.htm" title="WebAppFactory.h" alt="" coords="431,237,565,267"/>
+<area shape="rect" id="node18" href="$WindowedWebApp_8h.htm" title="WindowedWebApp.h" alt="" coords="1362,237,1514,267"/>
+<area shape="rect" id="node29" href="$ProcessBase_8h.htm" title="ProcessBase.h" alt="" coords="45,469,159,499"/>
+<area shape="rect" id="node100" href="$SyncTask_8h.htm" title="SyncTask.h" alt="" coords="2378,315,2471,344"/>
+<area shape="rect" id="node106" href="$MemoryWatcher_8h.htm" title="MemoryWatcher.h" alt="" coords="2597,315,2733,344"/>
+<area shape="rect" id="node119" href="$WebAppCache_8h.htm" title="WebAppCache.h" alt="" coords="1882,469,2007,499"/>
+</map>
